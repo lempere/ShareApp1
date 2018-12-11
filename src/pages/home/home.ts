@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import {GithubProvider} from "../../providers/github/github";
+import {GithubProvider} from '../../../Github/src/index';
 
 @Component({
   selector: 'page-home',
